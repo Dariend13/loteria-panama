@@ -23,7 +23,7 @@ class App extends BaseConfig
 	 *
 	 * @var string
 	 */
-	public $baseURL = 'http://localhost:8080/';
+	public $baseURL = 'https://laughing-poitras.34-170-237-158.plesk.page/loteriapanama/';
 
 	/**
 	 * --------------------------------------------------------------------------
